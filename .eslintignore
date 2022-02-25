@@ -1,0 +1,15 @@
+# Ignore node_modules
+node_modules
+
+# Ignore some folders
+benchmark
+coverage
+lib
+__test__
+
+# Ignore some files
+setupProxy.js
+setupTests.js
+
+# Ignore not support files
+!.*.js
